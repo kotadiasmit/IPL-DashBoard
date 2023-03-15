@@ -1,0 +1,22 @@
+.latest-match-container {
+  background-color: #0f172a;
+  color: #ffffff;
+  font-weight: 200;
+  padding: 2%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  border-radius: 10px;
+}
+.competing-team-logo {
+  width: 190px;
+}
+.title {
+  font-size: 18px;
+  text-align: right;
+}
+.title-ans {
+  font-size: 14px;
+  text-align: right;
+}

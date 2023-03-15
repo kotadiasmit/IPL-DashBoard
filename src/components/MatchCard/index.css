@@ -1,0 +1,40 @@
+.match-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  background-color: #0f172a;
+  border-radius: 5px;
+  margin: 10px;
+  color: #ffffff;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  padding: 2%;
+  width: 30%;
+  min-height: 100%;
+  height: 400px;
+}
+.competing-team-logo {
+  width: 100px;
+}
+
+.competing-team-name {
+  font-size: 18px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.match-result {
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
